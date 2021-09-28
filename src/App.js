@@ -1,3 +1,3 @@
 import {Other} from './Other';
 
-console.warn(Other(),"app run");
+console.warn(Other(),"appfile");
