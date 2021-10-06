@@ -5,7 +5,7 @@ module.exports = {
   entry: "./src/App.js",
   output:{
       path:path.resolve(__dirname, 'dist'),
-      filename:'output.js'
+      filename:'main.js'
   },
   // loader
   module: {
